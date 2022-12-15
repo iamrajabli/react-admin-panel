@@ -1,3 +1,3 @@
 ### UI
 
-![1](./src/assets/image.png);
+![1](./src/assets/image.png)
