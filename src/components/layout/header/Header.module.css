@@ -1,0 +1,15 @@
+.Header {
+    @apply flex justify-between items-center
+}
+
+.Profile {
+    @apply flex items-center gap-3 relative
+}
+
+.Profile a {
+    @apply text-BlackDark transition-all hover:text-blue-600
+}
+
+.Profile img {
+    @apply rounded-full w-10 h-10 cursor-pointer border-2 border-gray-300
+}

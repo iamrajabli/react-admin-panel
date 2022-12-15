@@ -1,0 +1,11 @@
+.h1 {
+    @apply text-[24px] font-bold leading-6 text-BlackDark
+}
+
+.h2 {
+    @apply text-[20px] font-bold leading-5 text-BlackDark
+}
+
+.h3 {
+    @apply text-[18px] font-bold leading-5 text-BlackDark
+}

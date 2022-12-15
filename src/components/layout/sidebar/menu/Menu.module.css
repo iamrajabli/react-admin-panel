@@ -1,0 +1,12 @@
+
+.MenuItem a {
+    @apply flex items-center gap-3  px-10 py-3 text-GrayLight transition-all border-l-2 border-BlackDark hover:text-GrayDark hover:bg-WhiteLight hover:bg-opacity-5 hover:border-l-2 hover:border-l-white hover:border-opacity-100
+}
+
+.MenuActive {
+    @apply  bg-WhiteLight bg-opacity-5;
+
+    border-left:2px solid white !important;
+    color: #F7F8FC !important;
+    
+}

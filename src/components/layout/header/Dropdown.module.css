@@ -1,0 +1,7 @@
+.Dropdown {
+    @apply border bg-GrayDark rounded-lg border-gray-300 absolute top-[120%] right-0
+}
+
+.Dropdown li {
+    @apply py-3 px-10;
+}

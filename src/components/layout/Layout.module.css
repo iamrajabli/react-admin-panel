@@ -1,0 +1,7 @@
+.Layout {
+    @apply flex
+}
+
+.Main {
+    @apply bg-GrayDark w-4/5 p-10 
+}

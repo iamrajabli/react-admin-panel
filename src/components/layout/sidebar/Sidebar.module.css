@@ -1,0 +1,7 @@
+.Sidebar {
+    @apply w-1/5 min-h-screen bg-BlackDark py-10;
+}
+
+.Sidebar img {
+    @apply px-10 mb-10;
+}
